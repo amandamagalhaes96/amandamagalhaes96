@@ -19,7 +19,7 @@ Amanda Magalhães
               Liguagens de programação: [Java, Python];
   
   Conhecimentos:
-              Sistemas Operacionais: [Windows, Linux]
+              Sistemas Operacionais: [Windows, Linux];
   
   Interesses:
               Artes;
