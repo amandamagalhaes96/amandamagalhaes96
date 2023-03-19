@@ -17,6 +17,8 @@ Amanda Magalhães
               
               Desing Gráfico:        2021 - 2022;
               // Faculdade Internacional da Paraíba (FPB)
+              
+              Ciência da COmputação: 2016 - Trancado
 
   Aprendendo: 
               Liguagens de programação: [Java, Python];
