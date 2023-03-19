@@ -31,7 +31,8 @@ Amanda Magalhães
               Linguas Estrangeiras;
               Livros;
               Música;
-              Tecnologias;
+              Programação;
+              Tecnologia;
               UI & UX Design;
   
   Cursos:
