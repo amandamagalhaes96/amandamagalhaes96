@@ -12,8 +12,10 @@ Amanda Magalhães
 
   Formação Acadêmica:
               
-              Ciência da Computação: 2023 - Em andamento
-              Desing Gráfico:        2021 - 2022
+              Ciência da Computação: 2023 - Em andamento;
+              // Faculdade Internacional da Paraíba (FPB)
+              Desing Gráfico:        2021 - 2022;
+              // Faculdade Internacional da Paraíba (FPB)
 
   Aprendendo: 
               Liguagens de programação: [Java, Python];
