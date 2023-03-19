@@ -10,6 +10,11 @@
 ```javascript
 Amanda Magalhães
 
+  Formação Acadêmica:
+              
+              Ciência da Computação: 2023 - Em andamento
+              Desing Gráfico:        2021 - 2022
+
   Aprendendo: 
               Liguagens de programação: [Java, Python];
   
