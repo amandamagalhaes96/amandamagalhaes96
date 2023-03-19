@@ -14,6 +14,7 @@ Amanda Magalhães
               
               Ciência da Computação: 2023 - Em andamento;
               // Faculdade Internacional da Paraíba (FPB)
+              
               Desing Gráfico:        2021 - 2022;
               // Faculdade Internacional da Paraíba (FPB)
 
@@ -21,7 +22,6 @@ Amanda Magalhães
               Liguagens de programação: [Java, Python];
   
   Conhecimentos:
-              Sistemas Operacionais: [Windows, Linux];
   
   Interesses:
               Artes;
