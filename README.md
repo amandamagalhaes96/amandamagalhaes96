@@ -20,9 +20,7 @@ Amanda Magalhães
 
   Aprendendo: 
               Liguagens de programação: [Java, Python];
-  
-  Conhecimentos:
-  
+
   Interesses:
               Artes;
               Animações;
@@ -34,13 +32,8 @@ Amanda Magalhães
               Programação;
               Tecnologia;
               UI & UX Design;
-  
-  Cursos:
-  
-  Idiomas:
-              Inglês intermediário;
               
-  [ Perfil em construção ]
+  [ ]
   
 ```
 
